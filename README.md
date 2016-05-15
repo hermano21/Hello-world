@@ -1,3 +1,4 @@
-I am elated to be immersed inti github.But I am still a novice. # Hello-world
+# Hello-world
 Just another repo
-This message is to differenciate the master from the new branch
+Hello! I am elated to be immersed into github. Please be indulgent, I am a novice!
+This message is to create a new branch
